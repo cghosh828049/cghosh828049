@@ -1,6 +1,6 @@
 ## <div align="center">Chirag Ghosh Redirect Portal<div>
 
-The github username of original profile has been changed from `cghosh828049` to `chirag-ghosh`.
+The github username of original profile has been changed from `chirag828049` to `chirag-ghosh`.
 
 Please visit [here](https://github.com/chirag-ghosh)
 <!--
