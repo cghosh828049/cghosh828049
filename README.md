@@ -1,5 +1,8 @@
-### Hi there 👋
+## <div align="center">Chirag Ghosh Redirect Portal<div>
 
+The github username of original profile has been changed from `cghosh828049` to `chirag-ghosh`.
+
+Please visit [here](https://github.com/chirag-ghosh)
 <!--
 **cghosh828049/cghosh828049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
